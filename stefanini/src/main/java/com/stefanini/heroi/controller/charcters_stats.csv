@@ -1,0 +1,612 @@
+Nome,Alinhamento,Inteligencia,Forca,Destreza,Defesa,Poder,Combate
+3-D Man,bom,50,31,43,32,25,52
+A-Bomb,bom,38,100,17,80,17,64
+Abe Sapien,bom,88,14,35,42,35,85
+Abin Sur,bom,50,90,53,64,84,65
+Abomination,mal,63,80,53,90,55,95
+Abraxas,mal,88,100,83,99,100,56
+Adam Monroe,bom,63,10,12,100,71,64
+Adam Strange,bom,1,1,1,1,0,1
+Agent  13,bom,1,1,1,1,0,1
+Agent Bob,bom,10,8,13,5,5,20
+Agent Zero,bom,75,28,38,80,72,95
+Air-Walker,mal,50,85,100,85,100,40
+Alan Scott,bom,63,80,23,90,98,32
+Alex Woolsly,bom,1,1,1,1,0,1
+Alfred Pennyworth,bom,63,10,17,10,7,55
+Allan Quatermain,bom,1,1,1,1,0,1
+Amazo,mal,75,100,100,100,100,100
+Ammo,mal,1,1,1,1,0,1
+Ando Masahashi,bom,1,1,1,1,0,1
+Angel,bom,63,13,46,64,17,42
+Angel Salvadore,bom,38,10,28,28,46,60
+Angela,mal,1,1,1,1,0,1
+Animal Man,bom,56,48,47,85,73,80
+Annihilus,mal,75,80,47,56,59,64
+Ant-Man,bom,100,10,23,28,32,32
+Ant-Man II,bom,63,10,23,28,32,28
+Anti-Monitor,mal,88,90,38,90,100,90
+Anti-Spawn,mal,1,1,1,1,0,1
+Anti-Venom,neutro,75,60,65,90,85,84
+Apocalypse,mal,100,100,33,100,100,60
+Aquababy,bom,10,16,12,14,37,14
+Aqualad,bom,63,44,42,75,76,60
+Aquaman,bom,63,80,50,80,65,80
+Arachne,bom,1,1,1,1,0,1
+Archangel,bom,63,13,58,64,28,42
+Arclight,mal,38,63,23,42,52,70
+Ares,bom,75,82,35,80,62,101
+Ariel,bom,50,10,12,14,72,28
+Armor,bom,50,63,12,80,55,54
+Arsenal,bom,1,1,1,1,0,1
+Astro Boy,bom,1,1,1,1,0,1
+Atlas,bom,50,80,23,99,69,42
+Atom,bom,1,1,1,1,0,1
+Atom Girl,bom,38,10,23,28,38,42
+Atom I,bom,1,1,1,1,0,1
+Atom II,bom,1,1,1,1,0,1
+Atom III,bom,1,1,1,1,0,1
+Atom IV,bom,1,1,1,1,0,1
+Aurora,bom,50,15,83,56,69,56
+Azazel,mal,50,11,47,95,87,80
+Azrael,bom,63,18,17,20,35,80
+Aztar,bom,1,1,1,1,0,1
+Bane,mal,88,53,23,56,51,95
+Banshee,bom,50,10,58,42,60,70
+Bantam,bom,25,53,23,54,21,56
+Batgirl I,bom,1,1,1,1,0,1
+Batgirl II,bom,1,1,1,1,0,1
+Batgirl III,bom,1,1,1,1,0,1
+Batgirl IV,bom,69,12,27,56,42,100
+Batgirl V,bom,1,1,1,1,0,1
+Batgirl VI,bom,75,10,23,28,22,80
+Batman,bom,100,18,27,42,37,100
+Batman II,bom,88,11,33,28,36,100
+Battlestar,bom,50,53,35,74,48,74
+Beak,bom,1,1,1,1,0,1
+Beast,bom,88,48,35,56,35,84
+Beast Boy,bom,50,28,50,70,79,40
+Beetle,mal,1,1,1,1,0,1
+Ben 10,bom,10,7,8,10,90,40
+Beta Ray Bill,bom,63,80,35,95,100,84
+Beyonder,bom,88,100,23,100,100,56
+Big Barda,bom,63,90,23,85,42,72
+Big Daddy,bom,38,10,12,32,22,64
+Big Man,mal,75,12,23,28,19,70
+Bill Harken,bom,63,36,33,60,23,40
+Billy Kincaid,mal,1,1,1,1,0,1
+Binary,bom,1,1,1,1,0,1
+Bird-Brain,bom,25,10,35,28,21,42
+Bird-Man,mal,1,1,1,1,0,1
+Bird-Man II,mal,1,1,1,1,0,1
+Birdman,bom,1,1,1,1,0,1
+Bishop,bom,63,14,23,75,85,65
+Bizarro,neutro,75,95,100,100,95,85
+Black Abbott,mal,1,1,1,1,0,1
+Black Adam,mal,88,100,92,100,89,56
+Black Bolt,bom,75,67,100,84,100,56
+Black Canary I,bom,1,1,1,1,0,1
+Black Canary II,bom,1,1,1,1,0,1
+Black Cat,bom,75,16,33,10,23,70
+Black Goliath,bom,1,1,1,1,0,1
+Black Knight III,bom,63,10,8,70,43,70
+Black Lightning,bom,50,11,53,28,70,75
+Black Mamba,mal,75,10,35,42,78,65
+Black Panther,bom,88,16,30,60,41,100
+Black Widow,bom,75,13,27,32,32,100
+Black Widow II,bom,1,1,1,1,0,1
+Blackout,mal,63,32,45,80,38,65
+Blackwing,mal,38,10,35,32,20,56
+Blackwulf,neutro,50,28,8,30,59,25
+Blade,bom,63,28,38,50,33,90
+Blaquesmith,bom,1,1,1,1,0,1
+Bling!,bom,69,14,12,90,52,28
+Blink,bom,50,8,20,28,55,64
+Blizzard,mal,1,1,1,1,0,1
+Blizzard I,mal,1,1,1,1,0,1
+Blizzard II,mal,38,10,27,42,47,56
+Blob,mal,10,83,23,95,26,72
+Bloodaxe,mal,63,80,33,80,84,84
+Bloodhawk,bom,50,10,50,80,66,64
+Bloodwraith,mal,1,1,1,1,0,1
+Blue Beetle,bom,1,1,1,1,0,1
+Blue Beetle I,bom,1,1,1,1,0,1
+Blue Beetle II,bom,1,1,1,1,0,1
+Blue Beetle III,bom,50,34,58,80,97,30
+Bolt,bom,1,1,1,1,0,1
+Bomb Queen,mal,1,1,1,1,0,1
+Boom Boom,bom,38,10,12,42,56,64
+Boomer,bom,1,1,1,1,0,1
+Booster Gold,bom,56,85,53,50,72,40
+Box,bom,1,1,1,1,0,1
+Box III,bom,1,1,1,1,0,1
+Box IV,bom,50,75,23,28,11,56
+Brainiac,mal,100,28,63,90,60,75
+Brainiac 5,bom,100,10,23,28,60,32
+Brother Voodoo,bom,1,1,1,1,0,1
+Bullseye,mal,50,11,25,70,20,70
+Bumblebee,bom,63,28,25,10,45,35
+Bumbleboy,bom,1,1,1,1,0,1
+Bushido,bom,38,10,8,10,19,70
+Cable,bom,88,48,23,56,100,80
+Callisto,mal,63,53,23,42,45,85
+Cameron Hicks,bom,50,10,23,28,51,70
+Cannonball,bom,50,28,67,99,79,56
+Captain America,bom,63,19,35,56,46,100
+Captain Atom,bom,1,1,1,1,0,1
+Captain Britain,bom,75,77,50,60,31,80
+Captain Epic,bom,1,1,1,1,0,1
+Captain Mar-vell,bom,1,1,1,1,0,1
+Captain Marvel,bom,100,100,67,95,62,56
+Captain Marvel II,bom,75,81,27,90,34,56
+Captain Planet,bom,1,1,1,1,0,1
+Captain Universe,bom,1,1,1,1,0,1
+Carnage,mal,63,63,70,84,81,90
+Cat,bom,1,1,1,1,0,1
+Cat II,bom,1,1,1,1,0,1
+Catwoman,bom,63,13,33,28,24,85
+Cecilia Reyes,bom,1,1,1,1,0,1
+Century,bom,88,80,53,64,74,100
+Cerebra,bom,1,1,1,1,0,1
+Chamber,bom,50,10,20,80,57,64
+Chameleon,mal,88,10,12,28,28,28
+Changeling,mal,63,10,23,42,64,64
+Cheetah I,mal,1,1,1,1,0,1
+Cheetah II,mal,1,1,1,1,0,1
+Cheetah III,mal,1,1,1,1,0,1
+Chromos,mal,1,1,1,1,0,1
+Chuck Norris,bom,50,80,47,56,42,99
+Claire Bennet,bom,38,9,12,100,73,28
+Clea,bom,1,1,1,1,0,1
+Cloak,bom,63,10,47,64,74,56
+Cogliostro,mal,1,1,1,1,0,1
+Colin Wagner,bom,1,1,1,1,0,1
+Colossal Boy,bom,1,1,1,1,0,1
+Colossus,bom,63,83,33,100,46,80
+Corsair,bom,1,1,1,1,0,1
+Crimson Crusader,bom,1,1,1,1,0,1
+Crimson Dynamo I,bom,1,1,1,1,0,1
+Crystal,bom,63,16,12,14,57,56
+Curse,mal,1,1,1,1,0,1
+Cy-Gor,mal,1,1,1,1,0,1
+Cyborg,bom,75,53,42,85,72,64
+Cyborg Superman,mal,75,93,92,100,100,80
+Cyclops,bom,75,10,23,42,76,80
+Cypher,bom,1,1,1,1,0,1
+Dagger,bom,63,10,35,42,52,70
+Danny Cooper,bom,1,1,1,1,0,1
+Daphne Powell,bom,38,10,8,10,56,10
+Daredevil,bom,75,13,27,28,57,95
+Darkhawk,bom,50,32,33,70,74,64
+Darkman,bom,75,14,23,85,12,28
+Darkseid,mal,88,100,23,100,100,95
+Darkside,mal,1,1,1,1,0,1
+Darkstar,bom,38,8,35,42,52,64
+Dash,bom,9,4,83,42,12,28
+Dazzler,bom,63,10,35,42,64,56
+Deadman,bom,50,10,33,100,100,42
+Deadpool,neutro,50,15,30,100,100,100
+Deadshot,mal,50,10,23,28,47,80
+Deathlok,bom,69,32,30,70,40,60
+Deathstroke,neutro,75,30,35,100,36,90
+Demogoblin,mal,50,48,42,35,54,60
+Destroyer,mal,50,95,58,98,90,70
+DL Hawkins,bom,50,12,12,56,48,56
+Doc Samson,bom,75,80,33,80,36,70
+Doctor Doom,mal,100,32,20,100,93,84
+Doctor Doom II,mal,1,32,1,1,0,1
+Doctor Fate,bom,81,16,25,80,100,50
+Doctor Octopus,mal,1,1,1,1,0,1
+Doctor Strange,bom,100,10,12,84,100,60
+Domino,bom,63,10,27,28,49,74
+Donna Troy,bom,1,1,1,1,0,1
+Doomsday,mal,88,80,67,120,100,90
+Doppelganger,mal,8,63,60,95,62,84
+Dormammu,mal,88,95,83,100,100,80
+Dr Manhattan,bom,88,32,42,95,100,42
+Ego,mal,88,80,83,99,71,28
+Elastigirl,bom,38,32,12,90,20,14
+Electro,mal,69,10,50,56,67,64
+Elektra,bom,63,11,30,28,59,100
+Elle Bishop,mal,50,8,12,42,63,42
+Elongated Man,bom,38,10,27,90,41,42
+Emma Frost,bom,75,63,35,90,82,42
+Energy,bom,1,1,1,1,0,1
+ERG-1,bom,1,1,1,1,0,1
+Evilhawk,mal,50,32,33,70,78,64
+Exodus,mal,63,81,28,28,100,70
+Fabian Cortez,mal,1,1,1,1,0,1
+Falcon,bom,38,13,50,28,22,64
+Fallen One II,mal,88,85,83,100,100,56
+Faora,mal,88,95,75,100,87,90
+Feral,bom,38,28,45,28,20,70
+Fighting Spirit,bom,1,1,1,1,0,1
+Fin Fang Foom,bom,50,81,23,100,68,70
+Firebird,bom,38,8,40,14,90,42
+Firelord,bom,38,63,75,90,48,28
+Firestar,bom,50,8,54,55,71,32
+Firestorm,bom,50,53,58,56,100,42
+Fixer,mal,1,1,1,1,0,1
+Flash Gordon,bom,1,1,1,1,0,1
+Flash I,bom,63,10,100,50,57,32
+Flash II,bom,63,10,100,60,66,32
+Flash III,bom,63,10,100,60,83,32
+Flash IV,bom,63,10,100,32,59,48
+Forge,bom,63,10,12,28,12,48
+Franklin Richards,bom,1,1,1,1,0,1
+Franklin Storm,bom,38,10,1,1,0,10
+Frenzy,mal,63,53,35,100,38,52
+Frigga,bom,1,1,1,1,0,1
+Galactus,neutro,100,100,83,100,100,70
+Gambit,bom,63,10,23,28,55,84
+Garbage Man,bom,1,1,1,1,0,1
+Gary Bell,bom,63,5,8,10,54,10
+General Zod,mal,94,100,96,100,94,95
+Genesis,bom,1,1,1,1,0,1
+Ghost Rider,bom,50,55,25,100,70,60
+Ghost Rider II,bom,1,1,1,1,0,1
+Giant-Man,bom,1,1,1,1,0,1
+Giant-Man II,bom,1,1,1,1,0,1
+Giganta,mal,81,89,23,85,32,42
+Goblin Queen,mal,75,10,23,28,65,56
+Gog,mal,50,34,47,72,39,56
+Goku,bom,56,100,75,90,100,100
+Goliath,bom,1,1,1,1,0,1
+Goliath II,bom,1,1,1,1,0,1
+Goliath III,mal,1,1,1,1,0,1
+Goliath IV,bom,1,1,1,1,0,1
+Granny Goodness,mal,1,1,1,1,0,1
+Gravity,bom,50,32,33,40,72,30
+Green Arrow,bom,75,12,35,28,26,90
+Green Goblin,mal,75,48,35,48,38,28
+Green Goblin II,mal,75,55,37,50,38,26
+Green Goblin III,bom,1,1,1,1,0,1
+Green Goblin IV,bom,1,1,1,1,0,1
+Groot,bom,75,85,33,70,92,64
+Guardian,bom,1,1,1,1,0,1
+Guy Gardner,bom,38,80,27,64,97,64
+Hal Jordan,bom,63,90,53,64,100,56
+Hancock,bom,50,85,65,100,70,28
+Harley Quinn,mal,81,12,23,42,30,80
+Havok,bom,63,10,25,60,71,45
+Hawk,bom,38,38,35,95,36,42
+Hawkeye,bom,50,12,23,14,26,80
+Hawkeye II,bom,50,6,8,10,24,50
+Hawkgirl,bom,50,28,53,99,74,72
+Hawkman,bom,1,1,1,1,0,1
+Hawkwoman I,bom,1,1,1,1,0,1
+Hawkwoman II,bom,1,1,1,1,0,1
+Hawkwoman III,bom,1,1,1,1,0,1
+Hellboy,bom,63,53,23,85,30,75
+Hellcat,bom,50,10,23,42,18,70
+Hellstorm,bom,1,1,1,1,0,1
+Hercules,bom,63,100,46,85,67,100
+Hiro Nakamura,bom,1,1,1,1,0,1
+Hit-Girl,bom,10,8,23,14,21,56
+Hobgoblin,mal,1,1,1,1,0,1
+Hollow,bom,1,1,1,1,0,1
+Hope Summers,bom,63,10,12,32,89,75
+Howard the Duck,bom,1,1,1,1,0,1
+Hulk,bom,88,100,47,100,41,85
+Human Torch,bom,56,10,63,70,74,42
+Huntress,bom,69,10,23,28,34,95
+Husk,bom,63,63,35,78,53,64
+Hydro-Man,mal,38,13,25,80,66,50
+Hyperion,bom,63,95,75,95,58,72
+Iceman,bom,63,32,53,100,100,64
+Impulse,bom,50,10,100,60,63,60
+Ink,bom,38,28,17,40,66,50
+Invisible Woman,bom,69,10,27,70,74,56
+Iron Fist,bom,75,23,35,42,43,100
+Iron Man,bom,100,85,58,85,100,64
+Iron Monger,mal,88,63,25,90,57,56
+Ironman,bom,1,1,1,1,0,1
+Isis,bom,75,48,75,46,43,56
+Jack Bauer,bom,1,1,1,1,0,1
+Jack of Hearts,bom,63,55,100,30,70,30
+Jack-jack,bom,6,34,67,80,69,6
+Jean Grey,bom,100,80,67,100,100,70
+Jennifer Kale,bom,75,10,35,42,61,72
+Jessica Sanders,bom,1,1,1,1,0,1
+Jigsaw,mal,1,1,1,1,0,1
+Jim Powell,bom,38,38,23,80,23,20
+JJ Powell,bom,88,10,8,10,14,10
+Johann Krauss,bom,1,1,1,1,0,1
+John Stewart,bom,50,80,27,64,94,54
+John Wraith,bom,75,12,35,28,65,80
+Joker,mal,100,10,12,56,22,90
+Jolt,bom,63,12,27,32,31,42
+Jubilee,bom,56,8,22,20,66,90
+Juggernaut,neutro,44,100,42,100,74,70
+Junkpile,mal,50,38,17,90,71,30
+Justice,bom,50,10,33,70,55,30
+Kang,mal,100,48,58,70,71,70
+Kevin 11,mal,25,7,12,14,100,40
+Kick-Ass,bom,10,10,23,14,21,56
+Kid Flash,bom,25,4,92,42,13,30
+Kid Flash II,bom,1,1,1,1,0,1
+Killer Croc,mal,25,48,33,85,36,60
+Kilowog,bom,81,90,53,42,100,80
+Kingpin,mal,75,18,25,40,13,70
+Klaw,mal,63,38,33,100,62,60
+Kool-Aid Man,bom,25,10,12,14,10,14
+Kraven II,mal,50,34,23,28,36,85
+Kraven the Hunter,mal,63,32,35,42,26,85
+Krypto,bom,9,80,100,90,72,40
+Lady Bullseye,mal,1,1,1,1,0,1
+Lady Deathstrike,mal,1,1,1,1,0,1
+Leader,mal,100,10,12,14,58,42
+Leech,bom,25,5,12,14,62,14
+Lex Luthor,mal,100,10,12,14,10,28
+Light Lass,bom,38,10,35,28,65,42
+Lightning Lad,bom,38,10,23,28,60,42
+Lightning Lord,mal,44,10,23,42,66,42
+Living Brain,mal,75,53,35,56,31,28
+Liz Sherman,bom,1,1,1,1,0,1
+Lizard,mal,38,51,27,70,40,56
+Lobo,mal,88,83,35,100,95,85
+Loki,mal,88,57,47,85,85,56
+Longshot,bom,50,10,27,10,71,70
+Luke Cage,bom,44,55,23,95,35,64
+Luke Campbell,mal,1,1,1,1,0,1
+Luna,bom,38,6,83,14,53,14
+Lyja,bom,1,1,1,1,0,1
+Mach-IV,mal,75,36,60,84,60,56
+Machine Man,bom,63,32,35,84,51,64
+Magneto,mal,88,80,27,84,91,80
+Magog,bom,50,48,23,64,66,72
+Magus,mal,88,100,70,99,100,74
+Man-Bat,neutro,38,18,50,70,33,30
+Man-Thing,bom,50,32,8,100,98,40
+Man-Wolf,bom,63,44,35,42,38,70
+Mandarin,mal,100,28,23,28,99,95
+Martian Manhunter,bom,100,100,96,100,100,85
+Marvel Girl,bom,63,85,47,42,100,80
+Master Brood,bom,1,1,1,1,0,1
+Master Chief,bom,75,73,35,80,62,100
+Match,mal,75,95,83,85,90,70
+Matt Parkman,bom,63,10,12,14,59,56
+Maverick,bom,63,10,12,42,60,85
+Maxima,mal,75,90,35,56,67,75
+Maya Herrera,bom,50,10,12,14,60,14
+Medusa,bom,75,34,35,70,35,56
+Meltdown,bom,38,10,12,42,58,64
+Mephisto,mal,88,85,35,95,100,42
+Mera,bom,56,62,54,70,55,70
+Metallo,mal,75,53,23,95,74,64
+Metamorpho,bom,1,1,1,1,0,1
+Meteorite,bom,1,1,1,1,0,1
+Metron,bom,88,10,47,56,69,28
+Micah Sanders,bom,63,8,12,14,57,14
+Micro Lad,bom,38,28,27,28,44,32
+Mimic,bom,63,67,47,56,79,42
+Minna Murray,bom,1,1,1,1,0,1
+Misfit,bom,63,32,23,80,62,42
+Miss Martian,bom,63,85,58,100,100,45
+Mister Fantastic,bom,100,10,18,70,32,64
+Mister Freeze,mal,75,32,12,70,37,28
+Mister Mxyzptlk,mal,113,10,12,14,100,28
+Mister Sinister,mal,1,1,1,1,0,1
+Mogo,bom,1,1,1,1,0,1
+Mohinder Suresh,bom,1,1,1,1,0,1
+Moloch,mal,1,1,1,1,0,1
+Molten Man,mal,50,73,23,84,53,56
+Monarch,bom,1,1,1,1,0,1
+Monica Dawson,bom,50,10,35,14,48,90
+Moon Knight,bom,50,36,23,42,28,75
+Moonstone,bom,56,67,47,52,79,80
+Morlun,mal,63,60,35,42,59,56
+Morph,bom,1,1,1,1,0,1
+Moses Magnum,mal,75,28,12,42,55,56
+Mr Incredible,bom,38,73,35,95,25,42
+Ms Marvel,bom,63,80,47,52,70,80
+Ms Marvel II,bom,38,63,23,84,11,56
+Multiple Man,bom,63,11,23,70,28,62
+Mysterio I,mal,75,10,23,42,50,56
+Mystique,mal,75,12,23,64,58,74
+Namor,bom,1,1,1,1,0,1
+Namora,bom,50,85,42,42,41,64
+Namorita,bom,50,72,47,70,30,70
+Naruto Uzumaki,bom,50,80,32,80,100,100
+Nathan Petrelli,bom,1,1,1,1,0,1
+Nick Fury,bom,75,11,23,42,25,100
+Nightcrawler,bom,50,10,47,14,52,80
+Nightwing,bom,88,11,33,28,36,100
+Niki Sanders,bom,63,52,35,28,37,56
+Nina Theroux,bom,63,5,8,10,54,20
+Nite Owl II,bom,1,1,1,1,0,1
+Northstar,bom,50,18,83,56,70,70
+Nova,bom,100,85,67,101,100,85
+Nova,bom,38,60,100,100,100,25
+Offspring,bom,50,10,35,99,100,56
+Omega Red,mal,1,1,1,1,0,1
+Omniscient,bom,1,1,1,1,0,1
+Onslaught,mal,88,85,47,100,100,85
+Oracle (DC),bom,75,11,23,28,19,76
+Osiris,bom,75,85,60,95,65,42
+Overtkill,mal,1,1,1,1,0,1
+Penance,bom,1,1,1,1,0,1
+Penance I,bom,1,1,1,1,0,1
+Penance II,bom,1,1,1,1,0,1
+Penguin,mal,75,10,12,28,30,45
+Peter Petrelli,bom,63,28,23,28,69,56
+Phantom,bom,1,1,1,1,0,1
+Phantom Girl,bom,38,10,23,28,53,42
+Phoenix,bom,100,80,67,100,100,70
+Plastic Lad,bom,1,1,1,1,0,1
+Plastic Man,bom,50,63,23,100,100,56
+Plastique,mal,50,10,23,28,60,42
+Poison Ivy,mal,69,14,23,14,71,36
+Power Girl,bom,88,98,67,95,67,75
+Power Man,bom,1,1,1,1,0,1
+Professor X,bom,100,8,12,14,90,32
+Proto-Goblin,mal,63,38,23,48,22,28
+Psylocke,bom,1,1,1,1,0,1
+Punisher,bom,50,16,23,28,22,100
+Pyro,mal,38,10,12,14,50,28
+Quantum,bom,1,1,1,1,0,1
+Question,bom,81,14,27,35,20,80
+Quicksilver,bom,63,28,100,60,57,56
+Quill,bom,38,10,12,14,23,14
+Ra's Al Ghul,mal,100,28,32,42,27,100
+Rachel Pirzad,bom,63,4,8,10,52,10
+Raven,neutro,50,10,29,70,62,40
+Razor-Fist II,mal,1,1,1,1,0,1
+Red Arrow,bom,63,16,25,20,24,80
+Red Hood,neutro,75,12,23,28,24,95
+Red Hulk,bom,50,88,47,95,59,75
+Red Mist,mal,25,10,23,14,20,56
+Red Robin,bom,81,11,27,32,29,80
+Red Skull,mal,75,10,12,14,19,80
+Red Tornado,bom,75,38,67,60,92,40
+Redeemer II,mal,1,1,1,1,0,1
+Redeemer III,mal,1,1,1,1,0,1
+Renata Soliz,bom,1,1,1,1,0,1
+Rhino,mal,25,80,43,90,37,85
+Rick Flag,mal,88,11,23,28,19,95
+Riddler,mal,100,10,12,14,10,14
+Ripcord,bom,1,1,1,1,0,1
+Robin I,bom,88,11,27,28,32,85
+Robin II,bom,1,1,1,1,0,1
+Robin III,bom,81,11,27,28,30,85
+Robin V,bom,69,8,33,16,29,65
+Rocket Raccoon,bom,50,5,23,28,28,64
+Rogue,bom,75,10,12,28,80,80
+Ronin,bom,38,10,27,32,21,90
+Rorschach,bom,75,10,29,20,23,80
+Sabretooth,mal,55,53,25,90,28,100
+Sage,bom,75,10,12,14,28,56
+Sandman,neutro,50,75,47,97,62,56
+Sasquatch,bom,75,80,23,56,15,42
+Savage Dragon,bom,63,70,54,85,49,72
+Scarecrow,mal,81,10,12,14,48,50
+Scarlet Spider,bom,75,53,60,74,39,56
+Scarlet Spider II,bom,88,55,60,40,30,56
+Scarlet Witch,mal,88,10,23,42,67,28
+Scorpia,mal,38,28,42,28,34,28
+Scorpion,mal,50,52,60,85,49,80
+Sentry,bom,75,80,58,84,97,54
+Shadow King,bom,75,12,27,100,100,75
+Shadowcat,bom,88,8,21,25,69,70
+Shang-Chi,bom,63,12,30,50,25,100
+Shatterstar,bom,63,48,45,64,42,84
+She-Hulk,bom,69,100,42,100,33,70
+She-Thing,bom,1,1,1,1,0,1
+Shocker,mal,63,10,23,70,63,56
+Shriek,bom,50,10,23,28,45,42
+Shrinking Violet,bom,1,1,1,1,0,1
+Sif,bom,50,57,25,52,19,70
+Silk Spectre I,bom,1,1,1,1,0,1
+Silk Spectre II,bom,1,1,1,1,0,1
+Silver Surfer,bom,63,100,84,101,100,32
+Silverclaw,bom,50,28,35,42,34,42
+Sinestro,mal,75,80,53,64,100,56
+Siren,mal,38,10,12,14,55,28
+Siren II,mal,1,1,1,1,0,1
+Siryn,mal,38,8,47,28,50,42
+Skaar,bom,50,85,27,90,62,85
+Snowbird,bom,50,32,27,42,63,52
+Sobek,bom,50,34,23,46,20,56
+Solomon Grundy,mal,9,93,13,100,78,30
+Songbird,bom,75,36,27,42,55,56
+Space Ghost,bom,38,18,33,40,90,80
+Spawn,bom,75,60,50,90,100,95
+Spectre,bom,1,1,1,1,0,1
+Speedball,bom,1,1,1,1,0,1
+Speedy,bom,1,1,1,1,0,1
+Spider-Carnage,mal,1,1,1,1,0,1
+Spider-Girl,bom,63,38,60,65,46,75
+Spider-Man,bom,88,55,60,74,58,85
+Spider-Woman,bom,50,42,42,32,62,52
+Spider-Woman II,bom,1,1,1,1,0,1
+Spider-Woman III,bom,50,48,27,42,60,28
+Spider-Woman IV,mal,1,1,1,1,0,1
+Spiderman,bom,1,1,1,1,0,1
+Spyke,bom,50,12,17,60,41,30
+Stacy X,bom,1,1,1,1,0,1
+Stardust,bom,88,85,100,110,100,85
+Starfire,bom,50,80,33,85,59,70
+Stargirl,bom,50,40,27,90,71,56
+Steel,bom,81,82,53,90,64,64
+Stephanie Powell,bom,69,10,54,10,17,10
+Storm,bom,75,10,47,30,88,75
+Sub-Mariner,bom,63,80,47,56,37,84
+Sunspot,bom,63,63,35,25,79,70
+Super Moos,bom,8,1,1,10,65,40
+Superboy,bom,75,95,83,90,84,60
+Superboy-Prime,mal,94,100,100,100,100,85
+Supergirl,bom,94,98,92,100,85,75
+Superman,bom,100,100,100,100,94,85
+Swamp Thing,mal,88,80,23,100,66,56
+Sylar,mal,75,10,12,28,91,56
+Synch,bom,75,67,23,28,74,56
+Tempest,bom,38,10,45,28,62,60
+Thanos,mal,88,100,17,100,100,80
+The Cape,bom,38,10,23,32,22,64
+The Comedian,neutro,63,14,17,10,12,80
+Thing,bom,75,84,21,90,26,80
+Thor,bom,69,100,92,100,100,85
+Thor Girl,bom,75,83,70,84,100,70
+Thunderbird,bom,50,32,27,32,14,70
+Thunderbird II,bom,1,1,1,1,0,1
+Thunderbird III,bom,1,1,1,1,0,1
+Thunderstrike,bom,63,80,70,84,31,72
+Thundra,bom,38,81,32,64,26,54
+Tiger Shark,mal,38,72,42,70,21,28
+Tigra,bom,63,32,53,38,33,90
+Tinkerer,mal,100,10,23,14,10,14
+Titan,bom,1,1,1,1,0,1
+Toad,neutro,50,34,58,56,49,28
+Toxin,bom,56,73,70,84,75,70
+Tracy Strauss,bom,1,1,1,1,0,1
+Trickster,neutro,1,1,1,1,0,1
+Triplicate Girl,bom,63,10,23,42,44,42
+Two-Face,mal,88,10,12,14,9,28
+Ultragirl,bom,50,80,35,70,35,80
+Ultron,mal,88,83,42,100,100,64
+Utgard-Loki,mal,50,80,23,84,72,64
+Vagabond,bom,1,1,1,1,0,1
+Valerie Hart,bom,1,1,1,1,0,1
+Valkyrie,bom,1,1,1,1,0,1
+Vanisher,mal,63,10,75,56,39,42
+Venom,mal,75,57,65,84,79,84
+Venom II,mal,50,57,47,70,54,56
+Venom III,mal,63,73,35,90,66,56
+Vertigo II,bom,1,1,1,1,0,1
+Vindicator,bom,1,1,1,1,0,1
+Vindicator II,bom,63,63,53,64,56,70
+Violator,mal,1,1,1,1,0,1
+Violet,bom,10,4,12,28,65,14
+Vision,bom,100,72,54,95,76,70
+Vision II,bom,1,1,1,1,0,1
+Vulcan,bom,1,1,1,1,0,1
+Vulture,mal,63,22,47,56,40,56
+Walrus,mal,50,28,8,50,11,20
+War Machine,bom,63,80,63,100,100,85
+Warbird,bom,1,1,1,1,0,1
+Warlock,bom,88,36,79,95,71,95
+Warp,mal,38,10,23,28,63,50
+Warpath,bom,38,72,47,70,26,84
+Wasp,bom,63,8,58,52,23,42
+Watcher,bom,100,80,67,89,100,56
+Weapon XI,mal,1,1,1,1,0,1
+White Queen,bom,1,1,1,1,0,1
+Wildfire,bom,50,32,23,100,77,42
+Willis Stryker,mal,38,16,23,28,41,60
+Winter Soldier,bom,56,32,35,65,60,84
+Wiz Kid,bom,1,1,1,1,0,1
+Wolfsbane,bom,38,16,35,42,26,42
+Wolverine,bom,55,32,38,100,44,100
+Wonder Girl,bom,75,90,25,80,39,60
+Wonder Man,bom,75,100,53,90,64,64
+Wonder Woman,bom,88,100,50,100,42,100
+Wondra,bom,1,1,1,1,0,1
+Wyatt Wingfoot,bom,10,10,12,1,1,56
+X-23,bom,75,24,35,90,27,85
+X-Man,bom,88,53,53,95,92,84
+Yellow Claw,mal,1,1,1,1,0,1
+Yellowjacket,bom,88,10,12,28,12,14
+Yellowjacket II,bom,50,10,35,28,31,28
+Ymir,bom,50,100,27,100,83,28
+Zatanna,bom,75,10,23,28,100,56
+Zoom,mal,50,10,100,28,72,28

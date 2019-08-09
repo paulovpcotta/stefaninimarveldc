@@ -1,0 +1,44 @@
+<body>
+<div id="wrap">
+	<div ng-controller="abstractController"><menu></menu></div>
+	<div class="text-app-titulo">| Cadastrar | Poderes</div>
+	<form ng-controller="cadastraPoderController">
+    	<div class="contentform">
+			<div ng-class="cssMessage" ng-show="visibleMessage">{{messages}}</div>
+
+			<div class="leftcontact">
+				<div class="form-group">
+			        <p>Força<span>*</span></p>
+				        <input type="text" name="forca" id="forca" data-rule="required" placeholder="O número da força do poder"
+				        ng-model="forca"/>
+                	<div class="validation"></div>
+				</div><br><br>
+				<div class="form-group">
+					
+				</div>
+			</div>
+			
+			<div class="rightcontact">
+				<div class="form-group">
+			        <p>Nome do poder<span>*</span></p>
+				        <input type="text" name="nom" id="nom" data-rule="required" placeholder="Nome do poder"
+				        ng-model="nomePoder"/>
+                	<div class="validation"></div>
+				</div><br><br>
+				<div class="form-group">
+					
+				</div>
+			</div>
+			
+			<div>
+				<button type="button" class="bouton-contact" ng-click="cadastraPoder(nomePoder, forca)">Cadastrar Poder</button>
+			</div>
+			
+			<br><br><br>
+			<p><b>Dados do poder</b></p><br>
+			<b>Nome do poder: </b>{{poderesDto.nomePoder}}<br>
+			<b>Força: </b>{{poderesDto.forca}}
+		</div>
+	</form>
+</div>
+</body>
